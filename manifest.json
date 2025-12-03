@@ -38,7 +38,7 @@
  ],
  "name": "Centro Educacional Geração do Saber",
  "start_url": "index.htm?installed=true",
- "background_color": "#FFFFFF",
+ "display": "fullscreen",
  "theme_color": "#FFFFFF",
- "display": "fullscreen"
+ "background_color": "#FFFFFF"
 }
