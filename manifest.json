@@ -1,7 +1,4 @@
 {
- "name": "Centro Educacional Geração do Saber",
- "display": "fullscreen",
- "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
+ "name": "Centro Educacional Geração do Saber",
  "start_url": "index.htm?installed=true",
- "background_color": "#FFFFFF"
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
+ "display": "fullscreen"
 }
